@@ -31,7 +31,7 @@ README.md
 ---
 
 ## 🌍 Live Demo
-(Add your live link here)
+(https://trivenidabholkar-dev.github.io/PRODIGY_WD_03/)
 
 ---
 
